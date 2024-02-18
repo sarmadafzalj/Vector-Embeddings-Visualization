@@ -1,6 +1,10 @@
 # Visualize the Vector Embeddings
 Welcome to the Visualizing Vector Embeddings project! This project focuses on visualizing vector embeddings in a RAG (Retrieval-Augmented Generation) system using Python, Pinecone, and Plotly.
 
+<p align=center>
+<img src="vector.png" />
+</p>
+
 ## Overview
 Today, most people are experts in creating RAG systems with vector search, but have you ever wondered how it brings relevant data? Or what your question looks like in the vector space?
 
