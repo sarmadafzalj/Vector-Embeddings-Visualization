@@ -1,0 +1,12 @@
+openai
+llama-index
+pinecone-client
+matplotlib
+pandas
+numpy
+plotly
+pypdf
+llama-index-vector-stores-pinecone
+llama-index-embeddings-openai
+scikit-learn
+ipympl
