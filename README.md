@@ -30,4 +30,5 @@ Plot the vector space using Plotly
 - <i>Linkedin: https://www.linkedin.com/in/sarmadafzal/</i>
 - <i>Github: https://github.com/sarmadafzalj</i>
 - <i>Youtube: https://www.youtube.com/@sarmadafzalj</i>
+- <i>Medium Blog: https://medium.com/@sarmadafzalj</i>
 ---
